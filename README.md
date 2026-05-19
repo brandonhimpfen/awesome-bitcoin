@@ -90,6 +90,7 @@
 - [Eclair](https://acinq.co/) - A Scala-based implementation of the Lightning Network.
 - [Zap Wallet](https://zap.jackmallers.com/) - A Lightning Network wallet for desktop and mobile.
 - [Lightning Network Explorer](https://explorer.acinq.co/) - A block explorer for the Lightning Network.
+- [LightningFaucet](https://lightningfaucet.com/?utm_source=github&utm_medium=referral&utm_campaign=directory-listing) - A Bitcoin/Lightning faucet for trying small sat payments.
 
 ## Research Papers
 
