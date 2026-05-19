@@ -86,6 +86,7 @@
 ## Lightning Network
 
 - [Lightning Labs](https://lightning.engineering/) - A leading development team building Lightning Network tools.
+- [LightningFaucet](https://lightningfaucet.com/?utm_source=github&utm_medium=referral) - A Bitcoin Lightning faucet with free sats, sat-denominated games, poker, and prediction markets.
 - [LND (Lightning Network Daemon)](https://github.com/lightningnetwork/lnd) - A complete implementation of the Lightning Network protocol.
 - [Eclair](https://acinq.co/) - A Scala-based implementation of the Lightning Network.
 - [Zap Wallet](https://zap.jackmallers.com/) - A Lightning Network wallet for desktop and mobile.
