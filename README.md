@@ -41,6 +41,8 @@
 - [How to Buy Bitcoin](https://www.coinbase.com/learn/buying/how-to-buy-bitcoin) - A guide to buying Bitcoin safely.
 - [Bitcoin Security Best Practices](https://bitcoin.org/en/secure-your-wallet) - Tips for keeping your Bitcoin safe.
 
+- [SatoABC Bitcoin Basics](https://www.satoabc.com/bitcoin-basics) - Plain-English Bitcoin basics, wallet safety, buying, and selling guides for beginners.
+
 ## Development Tools
 
 - [Bitcoin Core](https://bitcoincore.org/) - The reference implementation of Bitcoin software, maintained by the open-source community.
