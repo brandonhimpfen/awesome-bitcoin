@@ -33,6 +33,7 @@
 - [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf) - The original whitepaper by Satoshi Nakamoto describing Bitcoin as a peer-to-peer electronic cash system.
 - [BitInfoCharts](https://bitinfocharts.com/) - A platform providing various Bitcoin statistics and market data.
 - [Clark Moody Bitcoin Dashboard](https://bitcoin.clarkmoody.com/dashboard/) - A comprehensive dashboard with Bitcoin metrics.
+- [Bitcoin Institute](https://bitcoin-institute.pages.dev) - A bilingual (English/Japanese) archive of Satoshi Nakamoto primary sources, including forum posts, emails, and mailing-list messages linked to their original sources.
 
 ## Getting Started
 
