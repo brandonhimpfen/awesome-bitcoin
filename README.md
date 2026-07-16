@@ -32,6 +32,7 @@
 - [Bitcoin Wiki](https://en.bitcoin.it/wiki/Main_Page) - A comprehensive wiki with information about Bitcoin.
 - [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf) - The original whitepaper by Satoshi Nakamoto describing Bitcoin as a peer-to-peer electronic cash system.
 - [BitInfoCharts](https://bitinfocharts.com/) - A platform providing various Bitcoin statistics and market data.
+- [BTCDash](https://btcdash.org/) - A free, real-time Bitcoin dashboard with live price, halving countdown, fees, hashrate, sentiment, and on-chain metrics; no signup required.
 - [Clark Moody Bitcoin Dashboard](https://bitcoin.clarkmoody.com/dashboard/) - A comprehensive dashboard with Bitcoin metrics.
 
 ## Getting Started
