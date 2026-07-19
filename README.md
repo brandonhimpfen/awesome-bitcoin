@@ -31,6 +31,7 @@
 - [Bitcoin.org](https://bitcoin.org/) - The official website for Bitcoin, with resources for beginners and advanced users.
 - [Bitcoin Wiki](https://en.bitcoin.it/wiki/Main_Page) - A comprehensive wiki with information about Bitcoin.
 - [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf) - The original whitepaper by Satoshi Nakamoto describing Bitcoin as a peer-to-peer electronic cash system.
+- [Bitcoin Investment Calculator](https://bitcoin555.com/if-you-had-invested) - A free tool showing what a past Bitcoin investment would be worth today, with monthly historical data since 2013.
 - [BitInfoCharts](https://bitinfocharts.com/) - A platform providing various Bitcoin statistics and market data.
 - [Clark Moody Bitcoin Dashboard](https://bitcoin.clarkmoody.com/dashboard/) - A comprehensive dashboard with Bitcoin metrics.
 
