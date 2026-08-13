@@ -49,6 +49,7 @@
 - [BitcoinJS](https://github.com/bitcoinjs/bitcoinjs-lib) - A JavaScript library for Bitcoin development.
 - [bcoin](https://bcoin.io/) - A full-node implementation of Bitcoin in JavaScript.
 - [Rust Bitcoin](https://github.com/rust-bitcoin/rust-bitcoin) - A Rust library for Bitcoin development.
+- [Solana Mint/Program Monitor (n8n)](https://github.com/DeusAcc/n8n-solana-mint-monitor) - Free n8n workflow: watches an SPL mint or Solana program ID and alerts on Telegram when a new transaction shows up, no external database, ready in 5 minutes.
 
 ## Wallets
 
