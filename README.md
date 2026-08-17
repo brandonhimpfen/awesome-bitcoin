@@ -79,6 +79,7 @@
 
 - [Bitcoin Mining Guide](https://www.bitcoinmining.com/) - A comprehensive guide to getting started with Bitcoin mining.
 - [Slush Pool](https://slushpool.com/) - One of the oldest Bitcoin mining pools.
+- [NexusPool](https://nexuspool.io/) - A non-custodial Bitcoin solo/lottery pool with native Stratum V2 and signed, offline-verifiable share receipts (Glass Ledger).
 - [Antminer](https://www.bitmain.com/) - Popular hardware for Bitcoin mining.
 - [NiceHash](https://www.nicehash.com/) - A platform for Bitcoin mining and hash power marketplace.
 - [Braiin OS](https://braiins.com/os) - An open-source operating system for Bitcoin mining.
