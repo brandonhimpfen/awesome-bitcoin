@@ -67,6 +67,7 @@
 - [Kraken](https://www.kraken.com/) - A trusted exchange with a variety of Bitcoin trading pairs.
 - [Bitstamp](https://www.bitstamp.net/) - One of the oldest Bitcoin exchanges, known for its reliability.
 - [Swan Bitcoin](https://www.swanbitcoin.com/) - A platform for recurring Bitcoin purchases.
+- [CoinPeek](https://chromewebstore.google.com/detail/coinpeek-bitcoin-price-ba/konlmcdlofpoegdkbjocdfojejmfkfbo) - Chrome extension that keeps the live Bitcoin price in the toolbar badge, with Ethereum prices, network fees and a BTC/ETH/USD converter.
 
 ## Block Explorers
 
