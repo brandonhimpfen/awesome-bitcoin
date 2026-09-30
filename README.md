@@ -92,6 +92,8 @@
 - [Zap Wallet](https://zap.jackmallers.com/) - A Lightning Network wallet for desktop and mobile.
 - [Lightning Network Explorer](https://explorer.acinq.co/) - A block explorer for the Lightning Network.
 
+- [Lightning News](https://lightning.news) - Bitcoin Lightning Network news publication.
+
 ## Research Papers
 
 - [Bitcoin: A Peer-to-Peer Electronic Cash System (2008)](https://bitcoin.org/bitcoin.pdf) - The original whitepaper by Satoshi Nakamoto.
