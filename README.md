@@ -119,6 +119,7 @@
 - [Reddit: r/Bitcoin](https://www.reddit.com/r/Bitcoin/) - A subreddit dedicated to discussions about Bitcoin.
 - [Bitcoin StackExchange](https://bitcoin.stackexchange.com/) - A Q&A platform for Bitcoin development and usage.
 - [Bitcoin Talk Forum](https://bitcointalk.org/) - The original Bitcoin forum founded by Satoshi Nakamoto.
+- [Bitcoin Shipshow](https://bitcoinship.show/meetup) - A monthly online Bitcoin builder meetup where builders demo what they ship; live demos, not pitches.
 - [Telegram: Bitcoin](https://t.me/Bitcoin) - A Telegram group for Bitcoin discussions.
 - [Twitter: #Bitcoin](https://twitter.com/search?q=%23bitcoin) - Follow the latest updates and discussions on Bitcoin.
 
