@@ -33,6 +33,7 @@
 - [Bitcoin Wiki](https://en.bitcoin.it/wiki/Main_Page) - A comprehensive wiki with information about Bitcoin.
 - [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf) - The original whitepaper by Satoshi Nakamoto describing Bitcoin as a peer-to-peer electronic cash system.
 - [BitInfoCharts](https://bitinfocharts.com/) - A platform providing various Bitcoin statistics and market data.
+- [Bitcoin Barometer](https://nakamotonotes.com/open) - A free Heat Score and zone combining eight market-cycle indicators, with a JSON feed and daily history since 2014; on-chain inputs come from its own full node.
 - [Clark Moody Bitcoin Dashboard](https://bitcoin.clarkmoody.com/dashboard/) - A comprehensive dashboard with Bitcoin metrics.
 
 ## Getting Started
